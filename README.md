@@ -4,7 +4,7 @@
 ___
 
 ## Introduction
-In this project, I managed a 48,621-row dataset while designing a dynamic dashboard customized to address a particular business issue. I used SQL to perform extensive cross-checking of the Tableau dashboard in order to guarantee accuracy and dependability. This project, which I've highlighted here, demonstrates my capacity to combine analytical abilities with visualization strategies to provide insightful information for data-driven decision-making.
+In this project, I designed a dynamic dashboard customized to address a particular business issue. I used SQL to perform extensive cross-checking of the Tableau dashboard in order to guarantee accuracy and dependability. This project, which I've highlighted here, demonstrates my capacity to combine analytical abilities with visualization strategies to provide insightful information for data-driven decision-making.
 
 ___
 ## Problem Statement
