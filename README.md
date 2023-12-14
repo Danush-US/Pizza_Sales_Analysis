@@ -19,7 +19,6 @@ ___
   - Sql
   - Data Transformation
   - Tableau
-  - Modelling
   - Data Analysis
  
 
